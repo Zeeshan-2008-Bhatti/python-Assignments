@@ -1,0 +1,8 @@
+print("welcom to")
+print ("python welcome to computer sience")
+print ("and  programming is fun")
+print("welcom to python")
+print("welcom to python")
+print("welcom to python")
+print("welcom to python")
+print("welcom to python")
